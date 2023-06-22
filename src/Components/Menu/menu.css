@@ -1,0 +1,33 @@
+
+.title{
+    font-size: 20px !important;
+}
+.img-fluid{
+    height: 300px;
+    width: 300px;
+}
+.flex-container{
+    display: flex;
+}
+.btn{
+    background-color: red !important;
+    color: white !important;
+    margin-top: 10px;
+    
+}
+.title1{
+    font-size: 16px !important;
+    margin-top: 22px;
+}
+.title2{
+    font-size: 16px !important;
+}
+.form-control{
+    box-shadow: none !important;
+    border-color: black !important;
+}
+.row{
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
